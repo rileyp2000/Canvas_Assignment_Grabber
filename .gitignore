@@ -1,0 +1,6 @@
+#Dont track these folders
+Assignments/
+
+#Don't keep my excel or csv files
+.csv
+.xlsx
